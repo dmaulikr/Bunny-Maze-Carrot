@@ -1,6 +1,6 @@
 /**************************************************
 ** Algorithms and Data Structures Assignment 4
-** By: Sergio Martins. 100372139
+** By: Sergio
 ** This program calculates the shortest path from a start location (the bunny) to an end location (the carrot).
 **
 ** Note: a lot of the code contained within this project isn't used. 
